@@ -8,7 +8,8 @@ nombre = input("ingrese su nombre: ")
 apellidos = input("ingrese sus apellidos: ")
 edad = int(input("ingrese su edad: "))
 telefono = int (input("Ingrese su numero de telefono: "))
-añodeingreso = int (input("Ingrese su año de ingreso a la empresa: ")) 
+añodeingreso = int (input("Ingrese su año de ingreso a la empresa: "))
 
 print(f"nombre: {nombre}\n apellidos: {apellidos}\n antiguedad: {añodeingreso}" )
+
 
